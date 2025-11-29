@@ -1,79 +1,95 @@
 <div align="center">
+ 
+  <!-- BANNIÈRE HEADER DYNAMIQUE -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,092E20,1572B6&height=250&section=header&text=Ibrahim&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Full%20Stack%20Dev%20%7C%20React%20%26%20Django&descAlignY=55&descSize=20" alt="Header" width="100%"/>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2094F7&background=00000000&center=true&vCenter=true&width=435&lines=Salut+%F0%9F%91%8B+je+suis+Ibrahim;D%C3%A9veloppeur+React.js;D%C3%A9veloppeur+Django;Passionn%C3%A9+par+le+Web" alt="Typing SVG" />
+  <!-- TYPING SVG (Texte animé) -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3382F7&center=true&vCenter=true&width=435&lines=Codeur+React.js+%2B+Django;J'aime+cr%C3%A9er+des+app+SaaS;D%C3%A9veloppeur+Full+Stack;Bienvenue+sur+mon+profil+!" alt="Typing SVG" />
+  </a>
 
-  <h2 align="center">Développeur Full Stack 💻</h2>
+  <!-- ILLUSTRATION DÉVELOPPEUR 3D -->
+  <br/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjR4MXd4eGZ5anB0Z3l4eHl4eHl4eHl4eHl4eHl4eHl4eHl4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1TVThqceKoyC7i5/giphy.gif" width="200" alt="coding dev" />
   
-  <p align="center">
-    <b>React.js ⚛️ | Django 🐍</b>
-  </p>
+  <br/><br/>
 
+  <!-- BOUTONS SOCIAUX -->
+  <a href="https://linkedin.com/in/[ton-profil]">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:[ton-email]">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
   <a href="https://github.com/ibrahimrh555">
-    <img src="https://komarev.com/ghpvc/?username=ibrahimrh555&label=Vues+du+profil&color=blue&style=flat" alt="Profile views" />
+    <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</div>
-
----
-
-### 👨‍💻 À propos de moi
-
-Je suis un développeur passionné spécialisé dans la création d'applications web modernes et performantes. J'aime combiner la puissance de **Python (Django)** côté backend avec la réactivité de **JavaScript (React.js)** côté frontend pour bâtir des solutions complètes.
-
-- 🔭 Je travaille actuellement sur **des applications SaaS et des API RESTful.**
-- 🌱 J'apprends actuellement **Next.js et Docker pour l'orchestration.**
-- 👯 Je cherche à collaborer sur **des projets Open Source React ou Python.**
-- 💬 Demandez-moi tout sur **l'architecture MVC, les Hooks React ou les API Django.**
-- 📫 Comment me joindre : **[ton-email@exemple.com]**
-
----
-
-### 🛠️ Tech Stack & Outils
-
-<div align="center">
-
-#### Frontend
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-
-#### Backend
-<img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/django%20rest-%23ff1709.svg?style=for-the-badge&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-
-#### Outils
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 
 </div>
 
 ---
 
-### 📊 Statistiques GitHub
+### 🚀 À propos de moi
+
+<table>
+  <tr>
+    <td width="60%">
+      <br/>
+      Salut ! 👋 Je suis <b>Ibrahim</b>. <br/>
+      Je transforme des idées complexes en applications web fluides. Mon super-pouvoir ? Connecter un Backend robuste en <b>Django</b> avec un Frontend élégant en <b>React.js</b>.
+      <br/><br/>
+      🔭 <b>En ce moment :</b> Je développe une plateforme SaaS.<br/>
+      🌱 <b>J'apprends :</b> L'architecture Microservices & Docker.<br/>
+      ⚡ <b>Fun fact :</b> Je peux debugger du code Python plus vite que je ne bois mon café.
+    </td>
+    <td width="40%" align="center">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" alt="Hi GIF"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ Mon Arsenal Technique
 
 <div align="center">
+  
+  <!-- Ligne Frontend -->
+  <img src="https://img.shields.io/badge/FRONTEND-React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=ibrahimrh555&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimrh555&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="languages graph" />
+  <img src="https://skillicons.dev/icons?i=react,redux,js,html,css,tailwind,bootstrap,vite" />
+  
+  <br/><br/>
+
+  <!-- Ligne Backend -->
+  <img src="https://img.shields.io/badge/BACKEND-Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimrh555&theme=tokyonight&hide_border=true&background=0D1117" alt="streak graph" />
+  <img src="https://skillicons.dev/icons?i=django,python,postgres,mysql,firebase" />
+
+  <br/><br/>
+
+  <!-- Ligne Outils -->
+  <img src="https://img.shields.io/badge/DEV_OPS-Tools-gray?style=for-the-badge&logo=linux&logoColor=white" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma" />
+
 </div>
 
 ---
 
-### 🤝 Connectons-nous
+### 📈 Mes Statistiques GitHub
 
 <div align="center">
-  <a href="https://linkedin.com/in/[ton-profil]" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:[ton-email@exemple.com]">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=ibrahimrh555&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimrh555&layout=compact&theme=midnight-purple&hide_border=true&bg_color=00000000" height="160" />
 </div>
+
+<br/>
+
+<!-- ANIMATION SNAKE (Optionnel, très cool) -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
+
+<!-- FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1572B6,092E20&height=100&section=footer" width="100%"/>
