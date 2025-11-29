@@ -15,10 +15,10 @@
   <br/><br/>
 
   <!-- BOUTONS SOCIAUX -->
-  <a href="https://linkedin.com/in/[ton-profil]">
+  <a href="https://www.linkedin.com/in/ibrahim-rahmani-433418387/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:[ton-email]">
+  <a href="mailto:rahmaniibrahim042@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/ibrahimrh555">
