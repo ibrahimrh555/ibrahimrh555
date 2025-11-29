@@ -1,7 +1,7 @@
 
 <div align="center">
   
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Votre%20Nom&fontSize=80&fontAlignY=35&animation=tween&fontColor=fff)
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Rahmani%20Ibrahim&fontSize=80&fontAlignY=35&animation=tween&fontColor=fff)
   
   ### Développeur Full Stack passionné par la création d'expériences web exceptionnelles
   
@@ -154,9 +154,5 @@ Je suis toujours ouvert à de nouvelles opportunités et collaborations passionn
 <div align="center">
   
   ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer)
-  
-  **⭐ N'oubliez pas de star mes repositories si vous les trouvez utiles !**
-  
-  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=votre-username.votre-username)
-  
+
 </div>
