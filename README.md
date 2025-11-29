@@ -4,8 +4,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,092E20,1572B6&height=250&section=header&text=Ibrahim&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Full%20Stack%20Dev%20%7C%20React%20%26%20Django&descAlignY=55&descSize=20" alt="Header" width="100%"/>
 
   <!-- TYPING SVG (Texte animé) -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3382F7&center=true&vCenter=true&width=435&lines=Codeur+React.js+%2B+Django;J'aime+cr%C3%A9er+des+app+SaaSD%C3%A9veloppeur+Full+Stack;Bienvenue+sur+mon+profil+!" alt="Typing SVG" />
+  
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3382F7&center=true&vCenter=true&width=435&lines=Codeur+React.js+%2B+PHP;D%C3%A9veloppeur+Full+Stack;Bienvenue+sur+mon+profil+!" alt="Typing SVG" />
   </a>
 
   <!-- ILLUSTRATION DÉVELOPPEUR 3D -->
