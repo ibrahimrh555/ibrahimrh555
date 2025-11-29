@@ -1,7 +1,7 @@
 <div align="center">
  
-  <!-- BANNIÈRE HEADER DYNAMIQUE -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,092E20,1572B6&height=250&section=header&text=Ibrahim&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Full%20Stack%20Dev%20%7C%20React%20%26%20Django&descAlignY=55&descSize=20" alt="Header" width="100%"/>
+ <!-- 1. BANNIÈRE HEADER (Stable) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,092E20,61DAFB&height=250&section=header&text=Ibrahim&fontSize=90&animation=fadeIn&fontColor=ffffff&desc=Full%20Stack%20Dev%20%7C%20React%20%26%20Django&descSize=20&fontAlignY=40" alt="Header" width="100%"/>
 
   <!-- TYPING SVG (Texte animé) -->
   
@@ -9,9 +9,9 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3382F7&center=true&vCenter=true&width=435&lines=Codeur+React.js+%2B+PHP;D%C3%A9veloppeur+Full+Stack;Bienvenue+sur+mon+profil+!" alt="Typing SVG" />
   </a>
 
-  <!-- ILLUSTRATION DÉVELOPPEUR 3D -->
+  <!-- 3. GIF ILLUSTRATION (Lien corrigé) -->
   <br/>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjR4MXd4eGZ5anB0Z3l4eHl4eHl4eHl4eHl4eHl4eHl4eHl4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1TVThqceKoyC7i5/giphy.gif" width="200" alt="coding dev" />
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Qydm5uY3B6bWF3Y3ZlZnZ3Z3Z3Z3Z3Z3Z3Z3Z3Z3Z3Z3Z3Z3/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="coding dev" />
   
   <br/><br/>
 
