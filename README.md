@@ -1,4 +1,3 @@
-# 🚀 Portfolio de Développeur
 
 <div align="center">
   
@@ -21,11 +20,11 @@ Développeur passionné avec **X années d'expérience** dans la création d'app
 
 ```javascript
 const developpeur = {
-    nom: "Votre Nom",
-    localisation: "Votre Ville, Pays",
+    nom: "Rahmani Ibrahim",
+    localisation: "Khouribga, Maroc",
     role: "Développeur Full Stack",
-    langages: ["JavaScript", "TypeScript", "Python", "Java"],
-    frameworks: ["React", "Node.js", "Express", "Next.js"],
+    langages: ["JavaScript", "Python", "Java", "PHP"],
+    frameworks: ["React", "Laravel", "Django"],
     passions: ["Open Source", "UI/UX", "Clean Code"],
     actuellement: "Ouvert aux opportunités"
 };
