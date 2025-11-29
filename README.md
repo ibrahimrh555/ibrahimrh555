@@ -5,7 +5,7 @@
 
   <!-- TYPING SVG (Texte animé) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3382F7&center=true&vCenter=true&width=435&lines=Codeur+React.js+%2B+Django;J'aime+cr%C3%A9er+des+app+SaaS;D%C3%A9veloppeur+Full+Stack;Bienvenue+sur+mon+profil+!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3382F7&center=true&vCenter=true&width=435&lines=Codeur+React.js+%2B+Django;J'aime+cr%C3%A9er+des+app+SaaSD%C3%A9veloppeur+Full+Stack;Bienvenue+sur+mon+profil+!" alt="Typing SVG" />
   </a>
 
   <!-- ILLUSTRATION DÉVELOPPEUR 3D -->
@@ -35,7 +35,7 @@
   <tr>
     <td width="60%">
       <br/>
-      Salut ! 👋 Je suis <b>Ibrahim</b>. <br/>
+      Salut ! 👋 Je suis <b>Ißrahim</b>. <br/>
       Je transforme des idées complexes en applications web fluides. Mon super-pouvoir ? Connecter un Backend robuste en <b>Django</b> avec un Frontend élégant en <b>React.js</b>.
       <br/><br/>
       🔭 <b>En ce moment :</b> Je développe une plateforme SaaS.<br/>
@@ -57,14 +57,14 @@
   <!-- Ligne Frontend -->
   <img src="https://img.shields.io/badge/FRONTEND-React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=react,redux,js,html,css,tailwind,bootstrap,vite" />
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,vite" />
   
   <br/><br/>
 
   <!-- Ligne Backend -->
   <img src="https://img.shields.io/badge/BACKEND-Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=django,python,postgres,mysql,firebase" />
+  <img src="https://skillicons.dev/icons?i=django,python,php,laravel,mysql,firebase" />
 
   <br/><br/>
 
