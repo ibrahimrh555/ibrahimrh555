@@ -1,100 +1,158 @@
+
 <div align="center">
-
-# 👋 Salut, moi c'est Ibrahim Rahmani !
-
-### 🎓 Étudiant Ingénieur en Génie Informatique · 🤖 AI Enthusiast · 🌍 Khouribga, Maroc
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ibrahim--rahmani-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ibrahim-rahmani-433418387)
-[![GitHub](https://img.shields.io/badge/GitHub-ibrahim--rahmani-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ibrahim-rahmani)
-[![Email](https://img.shields.io/badge/Email-rahmaniibrahim042@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahmaniibrahim042@gmail.com)
+  
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Rahmani%20Ibrahim&fontSize=80&fontAlignY=35&animation=tween&fontColor=fff)
+  
+  ### Développeur Full Stack passionné par la création d'expériences web exceptionnelles
+  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://votresite.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/votre-profil)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/votre-username)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:votre.email@example.com)
 
 </div>
 
 ---
 
-## 🚀 À propos de moi
+## 👨‍💻 À Propos
 
-```yaml
-nom       : Ibrahim Rahmani
-formation : Cycle Ingénieur GI — ENSA Khouribga (2024–2027)
-focus     : Développement Web · IA · IoT · Data Engineering
-langues   : Arabe (natif) · Français (courant) · Anglais (B2)
-passion   : Construire des solutions innovantes à impact réel
+Développeur passionné avec **X années d'expérience** dans la création d'applications web modernes et performantes. Spécialisé en développement full stack avec un focus particulier sur l'expérience utilisateur et l'architecture scalable.
+
+```javascript
+const developpeur = {
+    nom: "Rahmani Ibrahim",
+    localisation: "Khouribga, Maroc",
+    role: "Développeur Full Stack",
+    langages: ["JavaScript", "Python", "Java", "PHP"],
+    frameworks: ["React", "Laravel", "Django"],
+    passions: ["Open Source", "UI/UX", "Clean Code"],
+    actuellement: "Ouvert aux opportunités"
+};
 ```
 
 ---
 
-## 🛠️ Stack Technologique
+## 🛠️ Stack Technique
 
-**Langages**
+<div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 
-**Frameworks & Bibliothèques**
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+### DevOps & Outils
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-**Data & Cloud**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+</div>
 
 ---
 
 ## 💼 Projets Phares
 
-### 🚿 Système de Suivi d'Eau Domestique — *Stage ONEE*
-> Système IoT connecté pour la collecte et l'analyse en temps réel de la consommation d'eau.
-- Collecte de données via capteurs **ESP32 + YF-S201**
-- Tableau de bord de visualisation, détection d'anomalies & alertes
-- **Stack :** Python · Django · React · MySQL · IoT
+### 🌟 [Nom du Projet 1](https://github.com/votre-username/projet1)
+**Application de gestion de tâches collaborative avec temps réel**
+
+- 🔥 Stack: React, Node.js, Socket.io, PostgreSQL
+- ✨ Fonctionnalités: Collaboration en temps réel, notifications push, système de permissions
+- 📊 Impact: +10k utilisateurs actifs, 99.9% uptime
+
+![Stars](https://img.shields.io/github/stars/votre-username/projet1?style=social)
+![Forks](https://img.shields.io/github/forks/votre-username/projet1?style=social)
 
 ---
 
-### 🛍️ Plateforme E-commerce Prêt-à-Porter
-> Site e-commerce complet avec interfaces client & vendeur.
-- Gestion produits, commandes et utilisateurs · Architecture MVC
-- **Stack :** Laravel · PHP · JavaScript · MySQL
+### 🚀 [Nom du Projet 2](https://github.com/votre-username/projet2)
+**Plateforme e-commerce moderne avec checkout optimisé**
+
+- 🔥 Stack: Next.js, TypeScript, Stripe, Tailwind CSS
+- ✨ Fonctionnalités: Paiement sécurisé, gestion de stock, analytics
+- 📈 Performance: Score Lighthouse 95+
+
+![Stars](https://img.shields.io/github/stars/votre-username/projet2?style=social)
+![Forks](https://img.shields.io/github/forks/votre-username/projet2?style=social)
 
 ---
 
-### 🏥 Gestion de Cabinet Médical
-> Application web de gestion complète d'un cabinet médical.
-- Patients, rendez-vous, dossiers, ordonnances, facturation & système de rôles
-- **Stack :** Spring Boot · React · JEE · MySQL
+### 🎨 [Nom du Projet 3](https://github.com/votre-username/projet3)
+**Bibliothèque de composants UI open-source**
+
+- 🔥 Stack: React, Storybook, TypeScript
+- ✨ 50+ composants accessibles et personnalisables
+- 📦 +5k téléchargements npm/mois
+
+![Stars](https://img.shields.io/github/stars/votre-username/projet3?style=social)
+![NPM](https://img.shields.io/npm/dm/votre-package?style=social)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Statistiques GitHub
+
+<div align="center">
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=votre-username&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=votre-username&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=votre-username&theme=tokyonight)
+  
+</div>
+
+---
+
+## 🏆 Réalisations
+
+- 🥇 **Contributeur Open Source** - +100 contributions à des projets majeurs
+- 📱 **Applications publiées** - 5+ apps en production avec +50k utilisateurs
+- 🎓 **Certifications** - AWS Certified Developer, Google Cloud Professional
+- 🎤 **Conférencier** - Speaker à plusieurs meetups tech locaux
+
+---
+
+## 📝 Derniers Articles de Blog
+
+<!-- BLOG-POST-LIST:START -->
+- 📄 [Comment optimiser les performances React en 2024](https://votreblog.com/article1)
+- 🚀 [Guide complet de Next.js 14 et Server Components](https://votreblog.com/article2)
+- 💡 [Architecture Microservices: Retour d'expérience](https://votreblog.com/article3)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 💬 Travaillons Ensemble !
+
+Je suis toujours ouvert à de nouvelles opportunités et collaborations passionnantes. N'hésitez pas à me contacter !
 
 <div align="center">
 
-![Ibrahim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibrahim-rahmani&show_icons=true&theme=tokyonight&hide_border=true)
+### 📫 Comment me joindre
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim-rahmani&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ibrahim-rahmani&theme=tokyonight&hide_border=true)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:votre.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/votre-profil)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/votre-handle)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://votresite.com)
 
 </div>
 
 ---
 
 <div align="center">
-
-*« Build things that matter. »*
+  
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer)
 
 </div>
