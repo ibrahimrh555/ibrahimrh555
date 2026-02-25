@@ -1,9 +1,11 @@
+Voici la traduction de ton profil GitHub en anglais, en conservant la mise en forme et les liens.
+
 <div align="center">
 
 
 ![alt text](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Ibrahim%20Rahmani&fontSize=80&fontAlignY=35&animation=tween&fontColor=fff)
 
-🎓 Étudiant Ingénieur GI · 🤖 AI Enthusiast · ⚙️ Full Stack Developer
+🎓 Software Engineering Student · 🤖 AI Enthusiast · ⚙️ Full Stack Developer
 
 ![alt text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
@@ -15,9 +17,9 @@
 
 </div>
 
-👨‍💻 À Propos
+👨‍💻 About Me
 
-Étudiant ingénieur passionné par le développement web, l'intelligence artificielle et les systèmes IoT. Actuellement en cycle ingénieur Génie Informatique à l'ENSA Khouribga, avec une spécialisation en Technologies Avancées du Logiciel.
+Engineering student passionate about web development, artificial intelligence, and IoT systems. Currently pursuing a Computer Engineering degree at ENSA Khouribga, specializing in Advanced Software Technologies.
 
 code
 JavaScript
@@ -25,15 +27,15 @@ download
 content_copy
 expand_less
 const ibrahim = {
-    nom: "Ibrahim Rahmani",
-    localisation: "Khouribga, Maroc 🇲🇦",
-    formation: "Ingénieur GI — ENSA Khouribga (2024–2027)",
-    langages: ["JavaScript", "Python", "Java", "PHP", "C++", "SQL"],
+    name: "Ibrahim Rahmani",
+    location: "Khouribga, Morocco 🇲🇦",
+    education: "Software Engineering — ENSA Khouribga (2024–2027)",
+    languages: ["JavaScript", "Python", "Java", "PHP", "C++", "SQL"],
     frameworks: ["React", "Node.js", "Django", "Spring Boot", "Laravel"],
-    passions: ["AI & ML", "IoT", "Clean Code", "Open Source"],
-    actuellement: "Ouvert aux opportunités & stages 🚀"
+    interests: ["AI & ML", "IoT", "Clean Code", "Open Source"],
+    currentStatus: "Open to opportunities & internships 🚀"
 };
-🛠️ Stack Technique
+🛠️ Tech Stack
 <div align="center">
 
 Frontend
@@ -105,42 +107,42 @@ DevOps & Cloud
 
 </div>
 
-💼 Projets Phares
-🚿 Système de Suivi d'Eau Domestique — Stage ONEE, Errachidia
+💼 Featured Projects
+🚿 Domestic Water Monitoring System — ONEE Internship, Errachidia
 
-Système IoT connecté pour la gestion intelligente de la consommation d'eau
+Connected IoT system for intelligent water consumption management
 
-🔥 Stack : Python · Django · React · MySQL · ESP32 · IoT
+🔥 Stack: Python · Django · React · MySQL · ESP32 · IoT
 
-✨ Collecte en temps réel via capteurs YF-S201, tableau de bord interactif
+✨ Real-time data collection via YF-S201 sensors, interactive dashboard
 
-📊 Détection d'anomalies automatique & système d'alertes intelligentes
+📊 Automatic anomaly detection & smart alert system
 
-🛍️ Plateforme E-commerce Prêt-à-Porter
+🛍️ Ready-to-Wear E-commerce Platform
 
-Site e-commerce complet avec interfaces client & vendeur
+Complete e-commerce site with client & vendor interfaces
 
-🔥 Stack : Laravel · PHP · JavaScript · MySQL
+🔥 Stack: Laravel · PHP · JavaScript · MySQL
 
-✨ Gestion produits, commandes & utilisateurs · Architecture MVC
+✨ Product, order & user management · MVC Architecture
 
-📈 Respect des bonnes pratiques web et sécurité applicative
+📈 Adherence to web best practices and application security
 
-🏥 Gestion de Cabinet Médical
+🏥 Medical Cabinet Management
 
-Application web complète pour la gestion d'un cabinet médical
+Full-stack web application for medical practice management
 
-🔥 Stack : Spring Boot · React · JEE · MySQL
+🔥 Stack: Spring Boot · React · JEE · MySQL
 
-✨ Patients, rendez-vous, dossiers médicaux, ordonnances & facturation
+✨ Patients, appointments, medical records, prescriptions & billing
 
-🔐 Système de rôles et permissions avancé
+🔐 Advanced role and permission system
 
-📊 Statistiques GitHub
+📊 GitHub Stats
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ibrahim-rahmani&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim-rahmani&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ibrahim-rahmani&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim-rahmani&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -151,25 +153,25 @@ Application web complète pour la gestion d'un cabinet médical
 
 </div>
 
-🏆 Réalisations & Engagements
+🏆 Achievements & Involvements
 
-🎓 ENSA Khouribga — Cycle Ingénieur Génie Informatique (2024–2027)
+🎓 ENSA Khouribga — Computer Engineering Cycle (2024–2027)
 
-🏅 DEUST MIP — Mathématiques, Informatique, Physique — FST Errachidia
+🏅 DEUST MIP — Mathematics, Computer Science, Physics — FST Errachidia
 
 🎨 JLM ENSA — Head of Design & Media Unit
 
-🌍 Langues — Arabe (natif) · Français (courant) · Anglais B2
+🌍 Languages — Arabic (Native) · French (Fluent) · English B2
 
-⚡ Méthodes — Agile Scrum · Design Thinking
+⚡ Methodologies — Agile Scrum · Design Thinking
 
-💬 Travaillons Ensemble !
+💬 Let's Work Together!
 
-Je suis toujours ouvert à de nouvelles opportunités, stages et collaborations passionnantes. N'hésitez pas à me contacter !
+I am always open to new opportunities, internships, and exciting collaborations. Feel free to contact me!
 
 <div align="center">
 
-📫 Comment me joindre
+📫 How to reach me
 
 ![alt text](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
@@ -190,6 +192,3 @@ Je suis toujours ouvert à de nouvelles opportunités, stages et collaborations 
 ![alt text](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer)
 
 </div>
-
-
-traduit ce markdown en english
