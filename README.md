@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Ibrahim%20Rahmani&fontSize=80&fontAlignY=35&animation=tween&fontColor=fff)
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Ißrahim%20Rahmani&fontSize=80&fontAlignY=35&animation=tween&fontColor=fff)
   
   ### 🎓 Software Engineering Student · 🤖 AI Enthusiast · ⚙️ Full Stack Developer
   
