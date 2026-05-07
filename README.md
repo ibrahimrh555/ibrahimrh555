@@ -107,7 +107,8 @@ const ibrahim = {
 
 <div align="center">
   
-  ![GitHub Streak](https://streak-stats.demolab.com?user=ibrahim-rahmani&theme=tokyonight&hide_border=true)
+  ![GitHub Streak](https://streak-stats.demolab.com?user=Rahmani-Ibrahim
+&theme=tokyonight&hide_border=true)
   
 </div>
 
