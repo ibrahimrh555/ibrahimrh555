@@ -28,50 +28,7 @@ I am a Computer Engineering student at **ENSA Khouribga**, specializing in **Adv
 
 
 
-## Featured Project — 10in ⚽
 
-**10in** is a social mobile application designed for amateur football players. It helps users discover nearby matches, join games, view participants, communicate in real time, and manage their football profile.
-
-### Main Features
-
-- Authentication by phone number or email using OTP
-- Player onboarding with name, city, profile photo, and notification preferences
-- Nearby match discovery and detailed match information
-- Match creation, participation, cancellation, and organizer tools
-- Support for 5v5, 7v7, 9v9, and 11v11 formats
-- Real-time match chat using WebSockets and Cloudflare Durable Objects
-- Push notifications and automated scheduled tasks
-- Player profiles, friends, match history, and badges
-- Administration dashboard for users, matches, formats, and platform settings
-
-### 10in Technical Stack
-
-| Layer | Technologies |
-| --- | --- |
-| Mobile | Expo, React Native, Expo Router, TypeScript |
-| Admin Dashboard | React, Vite, TanStack, TypeScript |
-| Backend | Hono, tRPC, Cloudflare Workers |
-| Authentication | Better Auth, OTP authentication |
-| Database | SQLite, Turso, Drizzle ORM |
-| Real-time | WebSockets, Cloudflare Durable Objects |
-| Storage | Cloudflare R2 |
-| Notifications | Push notifications, scheduled Cloudflare Cron tasks |
-| Monorepo | pnpm Workspaces, Turborepo |
-| Quality & Tooling | TypeScript, ESLint, Git, GitHub |
-
-```mermaid
-flowchart TD
-    A[Expo Mobile App] --> C[Hono + tRPC API]
-    B[React Admin Dashboard] --> C
-    C --> D[Cloudflare Workers]
-    D --> E[(Turso / SQLite)]
-    D --> F[Durable Objects Chat]
-    D --> G[Cloudflare R2]
-```
-
-> The project follows a modular monorepo architecture that shares TypeScript types and business logic across the mobile application, administration dashboard, API, authentication, database, chat, and notification packages.
-
----
 
 ## Tech Stack
 
@@ -132,6 +89,28 @@ flowchart TD
 ---
 
 ## Other Projects
+
+### ⚽ [10in](https://github.com/ibrahimrh555/10) — Social Football Platform
+
+Social mobile application that helps amateur football players discover nearby matches, join games, view participants, chat in real time, and manage their player profiles.
+
+- **Mobile:** Expo, React Native, Expo Router, TypeScript
+- **Dashboard:** React, Vite, TanStack
+- **Backend:** Hono, tRPC, Cloudflare Workers
+- **Data & Auth:** Turso, SQLite, Drizzle ORM, Better Auth, OTP
+- **Cloud & Real-time:** Durable Objects, WebSockets, Cloudflare R2, push notifications
+- **Architecture:** Modular monorepo powered by pnpm Workspaces and Turborepo
+- **Features:** Match discovery and creation, participation, organizer tools, chat, profiles, friends, badges, history, and administration dashboard
+
+### 🎓 [EDUCATOR](https://github.com/ibrahimrh555/AppJsColab) — Educational Collaboration Platform
+
+Full-stack web platform that centralizes the planning, management, and collaboration of educational projects and study sessions.
+
+- **Stack:** Angular, TypeScript, Tailwind CSS, Spring Boot, Java, MySQL
+- **Backend:** REST API, Spring Security, JWT, Spring Data JPA, Hibernate
+- **Tooling:** Maven, npm, Git
+- **Features:** Authentication, roles, users, groups, projects, study planning, KPI dashboards, messages, comments, notifications, and admin analytics
+- **Contributors:** Ibrahim Rahmani and Boutkalmount Hamza
 
 ### 🚿 Domestic Water Monitoring System
 
