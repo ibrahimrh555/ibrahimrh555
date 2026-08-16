@@ -10,7 +10,6 @@ I build modern web and mobile applications, scalable backends, and connected sys
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ibrahimrh555)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahmaniibrahim042@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=ibrahimrh555&style=flat-square&color=22c55e)
 
 </div>
 
@@ -21,24 +20,13 @@ I build modern web and mobile applications, scalable backends, and connected sys
 I am a Computer Engineering student at **ENSA Khouribga**, specializing in **Advanced Software Technologies**. I am passionate about designing useful digital products and developing complete solutions, from mobile and web interfaces to APIs, databases, cloud infrastructure, and IoT devices.
 
 - 🎓 Computer Engineering — ENSA Khouribga, 2024–2027
-- 📍 Based in Morocco 🇲🇦
+- 📍  Based in Morocco 🇲🇦
 - 🔭 Currently developing **10in**, a social mobile platform for amateur football
 - 🌱 Learning more about cloud-native systems, Edge computing, AI, and software architecture
 - 🤝 Open to internships, software engineering opportunities, and collaborations
 - 💬 Ask me about React, React Native, Hono, Spring Boot, Laravel, Django, or IoT
 
-```ts
-const ibrahim = {
-  role: "Software Engineering Student",
-  location: "Morocco 🇲🇦",
-  interests: ["Full-Stack Development", "Mobile", "AI", "IoT", "Cloud"],
-  currentProject: "10in — Social football mobile application",
-  values: ["Clean Code", "Continuous Learning", "Teamwork"],
-  availability: "Open to opportunities and internships 🚀",
-};
-```
 
----
 
 ## Featured Project — 10in ⚽
 
