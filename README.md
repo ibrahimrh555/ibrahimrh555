@@ -163,10 +163,26 @@ Full-stack system for managing the daily operations of a medical practice.
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=ibrahimrh555&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Ibrahim's GitHub statistics" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimrh555&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Ibrahim's most used languages" />
+<img
+  height="175"
+  src="https://github-readme-stats.vercel.app/api?username=ibrahimrh555&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"
+  alt="Ibrahim's GitHub statistics"
+/>
 
-<img src="https://streak-stats.demolab.com?user=ibrahimrh555&theme=tokyonight&hide_border=true" alt="Ibrahim's GitHub contribution streak" />
+<img
+  height="175"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimrh555&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+  alt="Ibrahim's most used languages"
+/>
+
+<br />
+
+<img
+  src="https://streak-stats.demolab.com?user=ibrahimrh555&theme=tokyonight&hide_border=true"
+  alt="Ibrahim's GitHub contribution streak"
+/>
+
+</div>
 
 </div>
 
