@@ -120,7 +120,7 @@ Connected IoT solution developed during my internship at **ONEE Errachidia** to 
 - Real-time collection and visualization of water consumption data
 - Automatic anomaly detection and intelligent alerts
 
-### 🛍️ Ready-to-Wear E-commerce Platform
+### 🛍️ [AquaWatch](https://github.com/ibrahimrh555/Suivi_de_Consommation_d_Eau)  Ready-to-Wear E-commerce Platform
 
 Full e-commerce platform with separate customer and seller experiences.
 
@@ -128,7 +128,7 @@ Full e-commerce platform with separate customer and seller experiences.
 - Product, order, customer, and seller management
 - MVC architecture, validation, and application security practices
 
-### 🏥 Medical Practice Management
+### 🏥 [7M7](https://github.com/ibrahimrh555/Optimisation_Processus_Administratifs_Cabinet_Medical) — Medical Practice Management
 
 Full-stack system for managing the daily operations of a medical practice.
 
