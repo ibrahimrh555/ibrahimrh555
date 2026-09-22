@@ -112,7 +112,7 @@ Full-stack web platform that centralizes the planning, management, and collabora
 - **Features:** Authentication, roles, users, groups, projects, study planning, KPI dashboards, messages, comments, notifications, and admin analytics
 - **Contributors:** Ibrahim Rahmani and Boutkalmount Hamza
 
-### 🚿 Domestic Water Monitoring System
+### 🚿 [AquaWatch](https://github.com/ibrahimrh555/Suivi_de_Consommation_d_Eau)  Domestic Water Monitoring System
 
 Connected IoT solution developed during my internship at **ONEE Errachidia** to monitor domestic water consumption and detect anomalies.
 
@@ -120,7 +120,7 @@ Connected IoT solution developed during my internship at **ONEE Errachidia** to 
 - Real-time collection and visualization of water consumption data
 - Automatic anomaly detection and intelligent alerts
 
-### 🛍️ [AquaWatch](https://github.com/ibrahimrh555/Suivi_de_Consommation_d_Eau)  Ready-to-Wear E-commerce Platform
+### 🛍️ Ready-to-Wear E-commerce Platform
 
 Full e-commerce platform with separate customer and seller experiences.
 
